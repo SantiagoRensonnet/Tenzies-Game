@@ -30,9 +30,9 @@ body {
 
 main {
   background: #0b2434;
-  width: max(calc(360px * 1.2), 39.375vw); /*min-width: 360px*/
+  width: max(calc(360px), 39.375vw); /*min-width: 360px*/
   aspect-ratio: 18/19;
-  min-height: calc(380px * 1.2);
+  min-height: calc(380px);
   display: flex;
   justify-content: center;
   align-items: center;
